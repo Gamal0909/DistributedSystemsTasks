@@ -1,0 +1,16 @@
+D:\Github\DistributedSystemsTasks\Server\obj\Debug\ServerProj.csproj.AssemblyReference.cache
+D:\Github\DistributedSystemsTasks\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Github\DistributedSystemsTasks\Server\obj\Debug\ServerProj.csproj.GenerateResource.cache
+D:\Github\DistributedSystemsTasks\Server\obj\Debug\ServerProj.csproj.CoreCompileInputs.cache
+D:\Github\DistributedSystemsTasks\Server\obj\Debug\Server.exe
+D:\Github\DistributedSystemsTasks\Server\obj\Debug\Server.pdb
+D:\Github\DistributedSystemsTasks\Server\bin\Debug\Server.exe.config
+D:\Github\DistributedSystemsTasks\Server\bin\Debug\Server.exe
+D:\Github\DistributedSystemsTasks\Server\bin\Debug\Server.pdb
+D:\Github\DistributedSystemsTasks\Server\bin\Debug\Client.exe
+D:\Github\DistributedSystemsTasks\Server\bin\Debug\OperationLibrary.dll
+D:\Github\DistributedSystemsTasks\Server\bin\Debug\Client.pdb
+D:\Github\DistributedSystemsTasks\Server\bin\Debug\Client.exe.config
+D:\Github\DistributedSystemsTasks\Server\bin\Debug\OperationLibrary.pdb
+D:\Github\DistributedSystemsTasks\Server\obj\Debug\Server.Server.resources
+D:\Github\DistributedSystemsTasks\Server\obj\Debug\ServerProj.csproj.Up2Date

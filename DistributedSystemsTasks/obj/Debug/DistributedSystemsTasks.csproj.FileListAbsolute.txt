@@ -1,0 +1,4 @@
+C:\Users\Gamal\source\repos\DistributedSystemsTasks\DistributedSystemsTasks\obj\Debug\DistributedSystemsTasks.csproj.AssemblyReference.cache
+C:\Users\Gamal\source\repos\DistributedSystemsTasks\DistributedSystemsTasks\obj\Debug\DistributedSystemsTasks.csproj.CoreCompileInputs.cache
+D:\Github\DistributedSystemsTasks\DistributedSystemsTasks\obj\Debug\DistributedSystemsTasks.csproj.AssemblyReference.cache
+D:\Github\DistributedSystemsTasks\DistributedSystemsTasks\obj\Debug\DistributedSystemsTasks.csproj.CoreCompileInputs.cache

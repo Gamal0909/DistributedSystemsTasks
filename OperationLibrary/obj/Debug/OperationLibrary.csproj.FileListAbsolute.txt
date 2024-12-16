@@ -1,0 +1,6 @@
+D:\Github\DistributedSystemsTasks\OperationLibrary\bin\Debug\OperationLibrary.dll
+D:\Github\DistributedSystemsTasks\OperationLibrary\bin\Debug\OperationLibrary.pdb
+D:\Github\DistributedSystemsTasks\OperationLibrary\obj\Debug\OperationLibrary.csproj.AssemblyReference.cache
+D:\Github\DistributedSystemsTasks\OperationLibrary\obj\Debug\OperationLibrary.csproj.CoreCompileInputs.cache
+D:\Github\DistributedSystemsTasks\OperationLibrary\obj\Debug\OperationLibrary.dll
+D:\Github\DistributedSystemsTasks\OperationLibrary\obj\Debug\OperationLibrary.pdb

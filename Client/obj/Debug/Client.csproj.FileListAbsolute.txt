@@ -1,0 +1,13 @@
+D:\Github\DistributedSystemsTasks\Client\bin\Debug\Client.exe.config
+D:\Github\DistributedSystemsTasks\Client\bin\Debug\Client.exe
+D:\Github\DistributedSystemsTasks\Client\bin\Debug\Client.pdb
+D:\Github\DistributedSystemsTasks\Client\bin\Debug\OperationLibrary.dll
+D:\Github\DistributedSystemsTasks\Client\bin\Debug\OperationLibrary.pdb
+D:\Github\DistributedSystemsTasks\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Github\DistributedSystemsTasks\Client\obj\Debug\Client.Client.resources
+D:\Github\DistributedSystemsTasks\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Github\DistributedSystemsTasks\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Github\DistributedSystemsTasks\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Github\DistributedSystemsTasks\Client\obj\Debug\Client.csproj.Up2Date
+D:\Github\DistributedSystemsTasks\Client\obj\Debug\Client.exe
+D:\Github\DistributedSystemsTasks\Client\obj\Debug\Client.pdb
